@@ -1,0 +1,69 @@
+MIT License
+
+Copyright (c) 2024 QuizMe!
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms
+
+### Attribution
+While not required by the MIT License, we appreciate attribution when using this software:
+- Include a link back to the original repository
+- Mention "Quiz Master Pro" in your project documentation
+- Consider starring the repository on GitHub
+
+### Contribution License
+By contributing to this project, you agree that your contributions will be licensed under the same MIT License.
+
+### Commercial Use
+This software is free for commercial use under the MIT License. However, we'd love to hear about your commercial projects using Quiz Master Pro!
+
+### Educational Use
+This software is particularly encouraged for educational purposes:
+- Use in schools and universities
+- Educational content creation
+- Learning web development concepts
+- Teaching interactive design principles
+
+### Trademark
+"Quiz Master Pro" is not a registered trademark. You're free to use the name, but please don't claim ownership of the trademark.
+
+### Support
+While this software is provided "as is," we're happy to help with questions and issues when time permits. Please use the GitHub issues system for support requests.
+
+### Privacy
+This software does not collect, store, or transmit any personal data. All quiz interactions happen locally in the user's browser.
+
+---
+
+**Contact Information:**
+- Repository: https://github.com/yourusername/quiz-master-pro
+- Issues: https://github.com/yourusername/quiz-master-pro/issues
+- Email: your-email@example.com
+
+**Special Thanks:**
+- To the open-source community for inspiration and support
+- To Acode for making mobile development possible
+- To everyone who contributes to making education more accessible through technology
+
+---
+
+*This license applies to all files in the Quiz Master Pro repository unless otherwise specified.*
