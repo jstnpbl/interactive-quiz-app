@@ -7,7 +7,7 @@ A sleek, timed quiz app with 30 questions across five knowledge domains, built e
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 ## 🖼️ Screenshots
-
+![image](https://github.com/user-attachments/assets/faa8a500-e35e-4d30-b98f-16cb52a41cf4)
 
 ## 🌟 Why I Built This
 
