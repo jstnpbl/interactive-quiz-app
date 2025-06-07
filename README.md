@@ -8,6 +8,8 @@ A sleek, timed quiz app with 30 questions across five knowledge domains, built e
 
 ## 🖼️ Screenshots
 
+![image](https://github.com/user-attachments/assets/faa8a500-e35e-4d30-b98f-16cb52a41cf4)
+
 ## 🌟 Why I Built This
 
 Late one night, armed with my Realme C15 and a burst of inspiration, I set out to create something fun and educational. I’ve always loved quizzes—they’re a great way to test knowledge and learn something new. As a budding developer, I wanted to challenge myself to build a fully functional web app on my phone, proving that big ideas don’t need a big screen. My goal? A fast-paced, mobile-friendly quiz that feels professional, looks great, and keeps you hooked without needing extra taps or waiting around.
@@ -203,4 +205,3 @@ Questions or issues? Reach out:
 **Built with ❤️ on a Realme C15 using Acode**
 
 *Proof that a phone, an editor, and a late-night idea can create something cool.*
-```
